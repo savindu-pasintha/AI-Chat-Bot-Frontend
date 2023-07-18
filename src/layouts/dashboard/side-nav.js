@@ -71,13 +71,13 @@ export const SideNav = (props) => {
                 color="inherit"
                 variant="subtitle1"
               >
-              Sales Play
+              AI Chat
               </Typography>
               <Typography
                 color="neutral.400"
                 variant="body2"
               >
-               NvIsion Lanka Private Limited
+               Nvision Lanka pvt Ltd
               </Typography>
             </div>
             <SvgIcon

@@ -28,7 +28,7 @@ export const items = [
     )
   },
   {
-    title: 'Chat Interface Customizations',
+    title: 'Customizations',
     path: '/customizations',
     icon: (
       <SvgIcon fontSize="small">

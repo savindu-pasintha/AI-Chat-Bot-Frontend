@@ -153,10 +153,10 @@ export const SideNav = (props) => {
               }
             }}
           >
-            <img
+            {/* <img
               alt="Go to pro"
               src="/assets/devias-kit-pro.png"
-            />
+            /> */}
           </Box>
           <Button
             component="a"
